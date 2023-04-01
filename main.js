@@ -4,13 +4,6 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-// Hide an element with the class "hidden-element"
-/* (".modal").hide(); */
-
-/* document.addEventListener('DOMContentLoaded', () => {
-  const errorModal = document.querySelector('#modal');
-  errorModal.classList.add('hidden');
-}); */
 
 const errorModal = document.querySelector('#modal');
 const emptyHearts = document.querySelectorAll('.like-glyph');
