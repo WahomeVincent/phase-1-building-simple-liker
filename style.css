@@ -43,6 +43,7 @@ article.media-post > footer ul {
   border-radius: 10px;
   background-color: maroon;
   color: white;
+  
 
   margin: 1em;
   padding: 1em;
@@ -52,6 +53,8 @@ article.media-post > footer ul {
   left: 0;
   right: 0;
 }
+
+
 
 #modal p {
   margin-bottom: 0;
